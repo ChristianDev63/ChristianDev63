@@ -1,3 +1,26 @@
+### Hey there 👨‍💻
+
+I'm a **Software Developer & Database Administrator** passionate about robust backend architectures, enterprise ERP systems, and seamless system integrations ⚙️. Currently, I specialize in **Delphi** applications and robust database management using **Microsoft SQL Server** & **Oracle** 🗄️.
+
+Beyond coding, I deal with complex business rules, fiscal reporting, and automated payment flows, turning bureaucratic challenges into clean, efficient technical solutions. Because code is at its best when it solves real-world operational problems!
+
+---
+
+🛠️ **Technologies & Tools**
+
+<p align="left">
+  <img src="https://api.devicons.dev.br/icon?icons=delphi,mssql,oracle,postgresql,python,git,github,docker,linux,postman,visualstudio&theme=dark" alt="Tech Stack" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+
+---
+
 # Olá, seja bem-vindo! 👋
 
 ### Christian \| Technology & Software Development 💻
