@@ -8,6 +8,11 @@ Minha atuação é voltada principalmente ao desenvolvimento, manutenção e evo
 
 Gosto de investigar problemas, entender a lógica por trás dos sistemas e desenvolver soluções que realmente façam a diferença no dia a dia das empresas. 🚀
 
+🤝 **Redes sociais:**
+
+- 📸 **Instagram:** [christian063_](https://www.instagram.com/christian063_)
+- 💼 **LinkedIn:** [christian063](https://www.linkedin.com/in/christian063)
+
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
@@ -62,11 +67,6 @@ Transformar conhecimento técnico em soluções inteligentes, desenvolver sistem
 ## 📫 Vamos nos conectar?
 
 Estou sempre aberto a aprender, compartilhar conhecimento e explorar novas possibilidades na tecnologia.
-
-🤝 **Redes sociais:**
-
-- 📸 **Instagram:** [christian063_](https://www.instagram.com/christian063_)
-- 💼 **LinkedIn:** [christian063](https://www.linkedin.com/in/christian063)
 
 
  | [![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChristianDev63&theme=dracula&exclude=exclude)](https://github.com/ChristianDev63/github-readme-stats) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChristianDev63&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  |  
