@@ -1,16 +1,72 @@
-## Hi there 👋
+# Olá, seja bem-vindo! 👋
 
-<!--
-**ChristianDev63/ChristianDev63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Christian \| Technology & Software Development 💻
 
-Here are some ideas to get you started:
+Sou um profissional de tecnologia apaixonado por desenvolvimento de
+sistemas, banco de dados, automação e soluções que transformam processos
+complexos em resultados eficientes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Minha atuação é voltada principalmente ao desenvolvimento, manutenção e
+evolução de sistemas ERP, trabalhando com **SQL Server, integrações via
+API, automação de processos e soluções de gestão empresarial**.
+
+Gosto de investigar problemas, entender a lógica por trás dos sistemas e
+desenvolver soluções que realmente façam a diferença no dia a dia das
+empresas. 🚀
+
+------------------------------------------------------------------------
+
+## 🛠️ Tecnologias & Ferramentas
+
+### Database & Data
+
+-   Microsoft SQL Server
+-   T-SQL
+-   Database Administration
+-   Query Optimization
+-   Data Analysis
+
+### Development & Integration
+
+-   REST APIs
+-   JSON
+-   SQL Automation
+-   System Integration
+-   Data Processing
+
+### Enterprise Systems
+
+-   ERP Systems
+-   Business Intelligence
+-   Financial Integrations
+-   Fiscal & Tax Systems
+-   Process Automation
+
+------------------------------------------------------------------------
+
+## 💡 Áreas de Interesse
+
+-   Desenvolvimento e evolução de sistemas ERP.
+-   Administração, otimização e manutenção de bancos de dados.
+-   Integrações entre sistemas e APIs.
+-   Automação de processos empresariais.
+-   Análise e resolução de problemas complexos.
+-   Tecnologia aplicada à gestão e aos negócios.
+
+------------------------------------------------------------------------
+
+## 🎯 Meu objetivo
+
+Transformar conhecimento técnico em soluções inteligentes, desenvolver
+sistemas cada vez mais eficientes e explorar novas tecnologias para
+resolver desafios reais.
+
+**Tecnologia não é apenas escrever código. É entender problemas e
+construir soluções.** 🚀
+
+------------------------------------------------------------------------
+
+## 📫 Vamos nos conectar?
+
+Estou sempre aberto a aprender, compartilhar conhecimento e explorar
+novas possibilidades na tecnologia.
